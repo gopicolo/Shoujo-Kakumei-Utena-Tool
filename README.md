@@ -78,7 +78,7 @@ python repack.py
 - Control codes are represented as `<HEX=XX>` tags for easy editing.  
 - No terminators are added during reinsertion — original data is reused.
 
-Additional Note – Editing the Game Font
+## Additional Note – Editing the Game Font
 
 If you need to add accented characters or other custom symbols, you can modify the game's font file:
 
